@@ -1,0 +1,7 @@
+{
+  "name": "inco_edwin",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"context": ".."
+	}
+}
